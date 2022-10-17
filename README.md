@@ -12,3 +12,7 @@ fdjvbdvbjvndf
 fdmnvdfmns
 hdsbvfdbvdfnvdfn bdm nbnmdcnb m,nc
 hefbvfjbvfdbvdfbvaj
+APPLE
+MANGO
+GRAPES
+CHERRY
