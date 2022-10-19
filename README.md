@@ -16,3 +16,5 @@ APPLE
 MANGO
 GRAPES
 CHERRY
+watermelon
+pineapple
